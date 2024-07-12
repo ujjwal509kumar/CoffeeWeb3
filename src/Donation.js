@@ -176,7 +176,7 @@ const Donation = () => {
         </div>
       </div>
       <ToastContainer />
-    </section>
+    </section> 
   );
 };
 
